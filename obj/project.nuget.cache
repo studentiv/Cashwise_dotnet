@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kf5uOoSShXE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Account\\Desktop\\.net\\Cashwise\\Cashwise\\Cashwise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Account\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Account\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
